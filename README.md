@@ -10,8 +10,9 @@
 - **Dark/Light theme** support  
 - *Add your other features...*  
 
-## 🎥 Demo
-https://github.com/menna890/harry-potter-flutter-app/raw/main/assets/videos/Harry_demo.mp4
+## 🎥 Demo<div align="center">
+  <video src="https://github.com/menna890/harry-potter-flutter-app/assets/videos/Harry_demo.mp4" controls muted autoplay loop style="max-width: 100%; height: auto;"></video>
+</div>
 
 ## 🛠 Tech Stack  
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
