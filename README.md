@@ -43,7 +43,6 @@ lib/
 ├── presentation/     # Screens and widgets
 assets/               # Images and fonts
 ```
-*Tip: Use VS Code's "Tree View" screenshot for this section*
 
 ## 🤝 How to Contribute  
 1. Fork the project  
