@@ -10,9 +10,17 @@
 - **Dark/Light theme** support  
 - *Add your other features...*  
 
-## 🎥 Demo<div align="center">
-  <video src="https://github.com/menna890/harry-potter-flutter-app/assets/videos/Harry_demo.mp4" controls muted autoplay loop style="max-width: 100%; height: auto;"></video>
+# Harry Potter Flutter App
+
+A Flutter application exploring the magical world of Harry Potter, showcasing books, characters, and movies using clean architecture and Cubit for state management.
+
+## 🚀 App Demo
+
+<div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+---
 
 ## 🛠 Tech Stack  
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
