@@ -7,8 +7,7 @@
 - **Character profiles** with house affiliations  
 - **Book details** with publication info  
 - **Movie information** with cast details  
-- **Dark/Light theme** support  
-- *Add your other features...*  
+- **Searching for Characters** support  
 
 # Harry Potter Flutter App
 
